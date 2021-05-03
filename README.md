@@ -7,17 +7,26 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 
 ### Kurse 
 
-- [ ] Versionsmanagement mit git
-- [ ] Git Flows
-- [ ] Projektmanagement mit GitHub
-- [ ] HPC Code-Deployments mit GitHub
-- [ ] Linux Kommandozeilen Basics
-- [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
-- [ ] Docker und Container Basics
-- [ ] Automatisierung mit GitHub Actions
+Hardware
+- [ ] Macs für die Life Sciences startklar machen
+
+Statistik und Alltägliches
 - [ ] EXCEL Grundlagen
 - [ ] R, R-Studio und Jupyter
 - [ ] Tidy-R Einführung
 - [ ] Formulare mit Google Docs und MS Forms
-- [ ] Macs für die Life Sciences startklar machen
-- [ ] Physical Computing
+
+GIT
+- [ ] Versionsmanagement mit git
+- [ ] Git Flows
+- [ ] Projektmanagement mit GitHub
+- [ ] HPC Code-Deployments mit GitHub
+- [ ] Automatisierung mit GitHub Actions
+
+Container und Cloud
+- [ ] Docker und Container Basics
+
+Bezug Machen-Können
+- [ ] Linux Kommandozeilen Basics
+- [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
+- [ ] Physical Computing (Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
