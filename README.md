@@ -29,4 +29,4 @@ Container und Cloud
 Bezug Machen-Können
 - [ ] Linux Kommandozeilen Basics
 - [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
-- [ ] Physical Computing (Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
+- [ ] Physical Computing (Welche Tools, Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
