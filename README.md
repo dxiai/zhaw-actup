@@ -17,7 +17,7 @@ Statistik und Alltägliches
 - [ ] Formulare mit Google Docs und MS Forms
 
 GIT
-- [ ] Versionsmanagement mit git
+- [ ] [Versionsmanagement mit git](//github.com/dxiai/actup-git-basics)
 - [ ] Git Flows
 - [ ] Projektmanagement mit GitHub
 - [ ] HPC Code-Deployments mit GitHub
