@@ -11,7 +11,7 @@ Hardware
 - [ ] Macs für die Life Sciences startklar machen
 
 Statistik und Alltägliches
-- [ ] EXCEL Grundlagen
+- [ ] EXCEL Grundlagen (//https://github.com/dxiai/actup-excel-basics)
 - [ ] R, R-Studio und Jupyter
 - [ ] [Tidy-R Einführung](//github.com/dxiai/actup-modern-r)
 - [ ] Formulare mit Google Docs und MS Forms
