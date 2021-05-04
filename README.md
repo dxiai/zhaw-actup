@@ -13,7 +13,7 @@ Hardware
 Statistik und Alltägliches
 - [ ] [EXCEL Grundlagen](//github.com/dxiai/actup-excel-basics)
 - [ ] R, R-Studio und Jupyter
-- [ ] [Tidy-R Einführung](//github.com/dxiai/actup-modern-r)
+- [ ] [Tidy-R Einführung](//github.com/dxiai/actup-modern-r-basics)
 - [ ] Formulare mit Google Docs und MS Forms
 
 GIT
