@@ -30,3 +30,7 @@ Bezug Machen-Können
 - [ ] Linux Kommandozeilen Basics
 - [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
 - [ ] Physical Computing (Welche Tools, Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
+
+### Übersicht Projekte Kernteam
+![Projektübersicht](https://user-images.githubusercontent.com/57399386/117158875-173afd00-adc0-11eb-8be7-ef92f8e9a242.png)
+
