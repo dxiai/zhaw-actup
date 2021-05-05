@@ -19,7 +19,7 @@ Statistik und Alltägliches
 GIT
 - [ ] [Versionsmanagement mit git](//github.com/dxiai/actup-modern-r-basics)
 - [ ] Git Flows
-- [ ] Projektmanagement mit GitHub
+- [ ] [Projektmanagement mit GitHub](https://github.com/dxiai/actup-github-projektmanagement)
 - [ ] HPC Code-Deployments mit GitHub
 - [ ] Automatisierung mit GitHub Actions
 
