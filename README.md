@@ -10,7 +10,7 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 Hardware
 - [ ] Macs für die Life Sciences startklar machen
 - [ ] Computer Literacy
-- [ ] Physical Computing (Sensoren & Aktuatoren)
+- [ ] Physical Computing (Sensoren & Aktuatoren; Welche Tools, Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
 
 Statistik und Alltägliches
 - [ ] [EXCEL Grundlagen](//github.com/dxiai/actup-excel-basics)
@@ -28,7 +28,7 @@ GIT
 Container und Cloud
 - [ ] Docker und Container Basics
 
-Bezug Machen-Können
+Linux
 - [ ] Linux Kommandozeilen Basics
 - [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
-- [ ] Physical Computing (Welche Tools, Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
+
