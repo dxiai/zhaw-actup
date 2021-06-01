@@ -9,6 +9,7 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 
 Hardware
 - [ ] Macs für die Life Sciences startklar machen
+- [ ] Computer Literacy
 - [ ] Physical Computing (Sensoren & Aktuatoren)
 
 Statistik und Alltägliches
