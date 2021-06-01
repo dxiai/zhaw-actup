@@ -9,6 +9,7 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 
 Hardware
 - [ ] Macs für die Life Sciences startklar machen
+- [ ] Physical Computing (Sensoren & Aktuatoren)
 
 Statistik und Alltägliches
 - [ ] [EXCEL Grundlagen](//github.com/dxiai/actup-excel-basics)
