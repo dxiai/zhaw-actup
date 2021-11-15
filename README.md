@@ -29,6 +29,6 @@ Container und Cloud
 - [ ] [Docker und Container Basics](//github.com/dxiai/actup-Docker-und-Container-Basics)
 
 Linux
-- [ ] Linux Kommandozeilen Basics
+- [ ] Linux Kommandozeilen Basics(//github.com/dxiai/actup-Linux-Kommandozeilen-Basics)
 - [ ] Ubuntu Linux auf dem Raspberry Pi Installieren
 
