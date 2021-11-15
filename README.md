@@ -9,7 +9,7 @@ Das Projekt entwickelt digitale Selbststudienkurse. Für jeden dieser Kurse exis
 
 Hardware
 - [ ] [Macs für die Life Sciences startklar machen](//github.com/dxiai/actup-Macs-fuer-die-Life-Sciences/blob/main/README.md)
-- [ ] Computer Literacy
+- [ ] [Computer Literacy] (//github.com/dxiai/actup-Computer-Literacy/tree/main)
 - [ ] Physical Computing (Sensoren & Aktuatoren; Welche Tools, Was sind sensoren, wie kombinieren wir das, Anwendungsszenarien)
 
 Statistik und Alltägliches
