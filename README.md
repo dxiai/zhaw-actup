@@ -23,7 +23,7 @@ GIT
 - [ ] [Git Flows](//github.com/dxiai/actup-git-flows)
 - [ ] [Projektmanagement mit GitHub](//github.com/dxiai/actup-github-projektmanagement)
 - [ ] [HPC Code-Deployments mit GitHub](//github.com/dxiai/actup-HPC-Code-Deployments-mit-GitHub)
-- [ ] Automatisierung mit GitHub Actions
+- [ ] [Automatisierung mit GitHub Actions](//github.com/dxiai/actup-Automatisierung-mit-GitHub-Actions)
 
 Container und Cloud
 - [ ] Docker und Container Basics
